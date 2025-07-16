@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, GitHub, Canva, WordPress, and JavaScript**
 
-- 💬 Ask me about **HTML, CSS, GitHub, Canva, or CodePen**
+- 💬 Ask me about **HTML, CSS, GitHub, or Canva**
 
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/subham-kumar-biswas-495964363/)

@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Subham Kumar Biswas
 
-<!--
-**Subham-Kumar-Biswas/Subham-Kumar-Biswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **BCA student** passionate about **Full Stack Web Development**, **Canva Design**, and exploring **AI tools** and **website building**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- HTML, CSS, JavaScript
+- React (in progress)
+- Git & GitHub
+- Canva Design
+- WordPress & E-commerce
+- CodePen (for quick experiments)
+
+---
+
+## 📚 Currently Working On
+
+- Building personal projects using HTML, CSS, JavaScript, and React  
+- Practicing daily GitHub commits and improving version control  
+- Designing web interfaces using Canva and AI tools  
+- Exploring website and store building with WordPress  
+
+---
+
+## 📌 Connect with Me
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/subham-kumar-biswas-495964363/)
+- 💻 [GitHub](https://github.com/Subham-Kumar-Biswas)
+
+---
+
+_“Learning every day, building step by step.”_

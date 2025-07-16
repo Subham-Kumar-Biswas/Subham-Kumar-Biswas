@@ -11,7 +11,6 @@
 - Git & GitHub
 - Canva Design
 - WordPress & E-commerce
-- CodePen (for quick experiments)
 
 ---
 

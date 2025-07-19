@@ -10,7 +10,7 @@
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/subham-kumar-biswas-495964363/)
 
-- ⚡ Fun fact: I enjoy designing websites using AI & Canva in mobile
+- ⚡ Fun fact: I enjoy designing websites using AI & Canva
 
 ---
 
